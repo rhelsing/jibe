@@ -1,7 +1,7 @@
 require './theory.rb'
 #
 # create doc that can be processed by node to create midi
-key = "C" # G for major, Gm for G minor, G#m, G#, etc
+key = "Am" # G for major, Gm for G minor, G#m, G#, etc
 progression1 = "i ii iii iv v vi vii" #case independent
 progression2 = "i-7 ii-7 iii-7 iv-7 v-7 vi-7 vii-7" #case independent
 
