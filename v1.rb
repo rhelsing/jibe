@@ -19,3 +19,7 @@ puts Theory.new.progression(progression2, Theory.new.scale(key))
 
 # https://www.justinguitar.com/en/IM-136-BuildingMelodicPatterns.php + my own patterns, and ones form fave songs
 
+# Take three from sweet inspire is ii vi
+
+
+# ----------------
